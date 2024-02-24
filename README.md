@@ -17,6 +17,11 @@
 [6 Repetición de nombres](#7-Crear-y-utilizar-una-función-que-regrese-el-número-de-veces-que-se-repite-un-nombre-en-la-siguiente-lista-de-nombres)
 
 ### 1 Crear una función que calcule el área de un rectángulo por medio de su base y altura, implementarla en main.
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/8e76bed0-f905-41fb-8919-38c739dea884)
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/039f6b4e-fc9e-4912-bb18-49ac98e87df0)
+**Salida en Consola:**
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/6a2630a5-2ab2-42cb-9051-5946639dd318)
+
 
 ### 2 Crear otra función para calcular el volumen de un prisma rectangular, utilizar la función de área.
 
