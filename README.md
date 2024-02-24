@@ -36,7 +36,7 @@
 
 
 ### 4 Utilizar la función promedio, Comentar qué pasa si se ingresa sólo una calificación en la función y después con dos. Finalmente, buscar que la función corra enviando únicamente la tercera calificación con 10f.
-![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/0e530abf-1bbe-40a8-ad67-f9433c94b5db)
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/0e530abf-1bbe-40a8-ad67-f9433c94b5db)  
 **Salida en Consola:**  
 ![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/b4d0451a-7f3b-4721-afc4-471c7ae83afb)
 
