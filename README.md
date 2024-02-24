@@ -63,8 +63,19 @@ No olvides ejecutar varias pruebas para comprobar que tu algoritmo funciona corr
 - String
 - Int
 - Double
-- Otro
+- Otro  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/9087e88a-9f04-4ed7-9594-44569d69a4fd)
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/12d18c95-9d64-45b8-b933-b86fcc1c07b8)
+**- Salida en Consola:**  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/74328fcb-5f73-4514-baf1-fee31b939bdf)
+
+
 
 ### 7 Crear y utilizar una función que regrese el número de veces que se repite un nombre en la siguiente lista de nombres:
 
-**[Pedro Luis, Juan Manuel, Juan Luis, María Inés, Romeo, Ernesto, Juan Pedro, Ariadna, Mireya María, Ana Sofía, José Juan]**
+**[Pedro Luis, Juan Manuel, Juan Luis, María Inés, Romeo, Ernesto, Juan Pedro, Ariadna, Mireya María, Ana Sofía, José Juan]**  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/ecee84e5-d673-4284-bdf3-3611cb8f78d0)  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/47eda22a-ae88-4712-87de-bc9818911957)  
+**- Salida en Consola:**  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/f6f58726-5d46-4934-9d84-f7da3f41ae13)
+
