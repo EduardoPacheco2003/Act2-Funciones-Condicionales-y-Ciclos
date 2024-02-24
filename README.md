@@ -51,7 +51,12 @@ Debe imprimirnos el tipo de tríangulo:
 
 Utilizar la expresión condicional if - else if - else . Para evaluar más de un valor en la sentencia if, debemos utilizar los operadores lógicos && (AND), || (OR) y ! (NOT)
 
-No olvides ejecutar varias pruebas para comprobar que tu algoritmo funciona correctamente!
+No olvides ejecutar varias pruebas para comprobar que tu algoritmo funciona correctamente!  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/2aa6410c-9db7-4a1e-a9ba-7a756a8cfe78)  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/5a75317c-adc7-4caf-be8d-e8d993232a3b)  
+**- Salida en Consola:**  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/270d79f3-b78e-4d00-bf79-18ccd52e8254)  
+
 
 ### 6 Con When identificar si el tipo de dato es:
 
