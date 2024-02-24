@@ -24,6 +24,12 @@
 
 
 ### 2 Crear otra función para calcular el volumen de un prisma rectangular, utilizar la función de área.
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/aece7f71-986b-4d75-9258-e216761099f6)  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/d677c352-7c54-4832-a670-66581c91fcac)  
+**Salida en Consola:**  
+![image](https://github.com/EduardoPacheco2003/Act2-Funciones-Condicionales-y-Ciclos/assets/100945554/d18e22ed-847d-4eae-97d9-eff5a2a22469)
+
+
 
 ### 3 Crear una función que entregue el promedio de tres calificaciones. Esta debe recibir dos parámetros con calificaciones por defecto 8, y el tercer parámetro no debe venir predefinido.
 
