@@ -6,6 +6,16 @@
 
 [1 Funciones](#1-Crear-una-función-que-calcule-el-área-de-un-rectángulo-por-medio-de-su-base-y-altura-implementarla-en-main)
 
+[2 Volumen de un prisma rectangular](#2-Crear-otra-función-para-calcular-el-volumen-de-un-prisma-rectangular-utilizar-la-función-de-área)
+
+[3 Promedio de tres calificaciones](#3-Crear-una-función-que-entregue-el-promedio-de-tres-calificaciones-Esta-debe-recibir-dos-parámetros-con-calificaciones-por-defecto-8-y-el-tercer-parámetro-no-debe-venir-predefinido)
+
+[4 Tipo de triángulo](#5-Crear-una-función-que-pida-como-parámetros-las-medidas-de-los-lados-de-un-triángulo)
+
+[5 Tipo de dato](#6-Con-When-identificar-si-el-tipo-de-dato-es)
+
+[6 Repetición de nombres](#7-Crear-y-utilizar-una-función-que-regrese-el-número-de-veces-que-se-repite-un-nombre-en-la-siguiente-lista-de-nombres)
+
 ### 1 Crear una función que calcule el área de un rectángulo por medio de su base y altura, implementarla en main.
 
 ### 2 Crear otra función para calcular el volumen de un prisma rectangular, utilizar la función de área.
